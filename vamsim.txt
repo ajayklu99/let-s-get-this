@@ -1,2 +1,4 @@
 vamsi is very good boy
 he loves to code in c lang
+he is good at coding
+he is very much interested in git
